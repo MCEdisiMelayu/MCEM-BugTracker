@@ -9,6 +9,7 @@
 | `bettermalay` | Anything regarding the [BetterMalay Language Pack](https://modrinth.com/resourcepack/bettermalay-language-pack) resource pack |
 | `busana_melayu` | Anything regarding the [Busana Melayu](https://modrinth.com/resourcepack/busana-melayu) resource pack |
 | `senjata_melayu` | Anything regarding the [Senjata Melayu](https://modrinth.com/resourcepack/senjata-melayu) resource pack |
+| `moddedmalay` | Anything regarding the [ModdedMalay Translation Pack](https://modrinth.com/resourcepack/moddedmalay-language-pack/) resource pack |
 | `site` | Anything regarding the official website, wiki or this bug tracker itself |
 | `new_project_ideas` | For new project ideas |
 | `wip_project` | For currently still-in-development projects (shouldn't be used by anyone other than me) |
@@ -16,6 +17,6 @@
 | `bug` | For reporting bugs found in any of the included packs |
 | `questions` | For any questions regarding any of the included packs |
 
-## [Download Links](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Resource-Pack-Download-Pages)
+## [Download Links](https://mcedisimelayu.gitbook.io/wiki/english/download-pages)
 
-## [Official Wiki](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki)
+## [Official Wiki](https://mcedisimelayu.gitbook.io/wiki/)
